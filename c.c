@@ -614,8 +614,6 @@ int main()
         printf("\n11. Afficher les etudiants ayant 10 dans chaque departement");
         printf("\n12. Rechercher un etudiant par son nom: ");
         printf("\n13. Afficher la liste des etudiants inscrits dans un departement: ");
-        printf("\n13. Afficher la liste des etudiants inscrits dans un departement: ");
-        printf("\n13. Afficher la liste des etudiants inscrits dans un departement: ");
         printf("\n14. Tri des etudiants en fonctions de leur nom de A a Z: ");
         printf("\n15. tries par moyenne generale: ");
         printf("\n16. tries selone moyenne superieur ou egale a 10/20 : ");
